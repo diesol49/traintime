@@ -1,0 +1,11 @@
+body {
+    background-image: url(../images/thomas.jpg);
+}
+
+.jumbotron {
+    opacity: 0.8;
+}
+
+.container {
+    opacity: 0.8;
+}

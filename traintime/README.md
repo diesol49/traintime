@@ -1,2 +1,0 @@
-# traintime
-Homework using firebase
