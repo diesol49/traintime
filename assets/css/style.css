@@ -4,8 +4,16 @@ body {
 
 .jumbotron {
     opacity: 0.8;
+    background-color: aqua;
+    color: blueviolet;
+    margin-top: 20px;
 }
 
 .container {
     opacity: 0.8;
+}
+
+#main-card {
+    margin-bottom: 20px;
+    color: blueviolet;
 }
